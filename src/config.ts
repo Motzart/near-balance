@@ -23,7 +23,7 @@ export default function getConfig(env: string = defaultEnv) {
           'urahan.near',
           'jazzmini.near',
           'beornottobe.near',
-          'oyaniuk-pem.near ',
+          'oyaniuk-pem.near',
           'lp.pembrock.near',
         ],
         headers: {}
