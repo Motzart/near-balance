@@ -25,6 +25,17 @@ export default function getConfig(env: string = defaultEnv) {
           'beornottobe.near',
           'oyaniuk-pem.near',
           'lp.pembrock.near',
+          'pembrock.near',
+          'treasury.pembrock.near',
+          'token.pembrock.near',
+          'ido.pembrock.near',
+          'pembrock-ido.near',
+          'lockup.pembrock.near',
+          'pembrock-lp.near',
+          'dao.pembrock.near',
+          'labs.pembrock.near',
+          'lp-incent.pembrock.near',
+          'lockup-lp.pembrock.near',
         ],
         headers: {}
       }
